@@ -12,3 +12,6 @@ git status -> me permite ver el estado actual de mis cambios
 
 git checkout #hash -> me permite regresar a un commit anterior
 git branch -> me permite ver las ramas existentes y me muestra en cual estoy
+
+git branch nombre -> crea una nueva rama
+git checkout nombreRama -> me posiciona en la rama seleccionada.
