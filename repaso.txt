@@ -1,0 +1,4 @@
+Comandos de Git
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+-->las configuraciones solo se corren la primera vez que se instala git en el ordenador.
