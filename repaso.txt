@@ -15,3 +15,6 @@ git branch -> me permite ver las ramas existentes y me muestra en cual estoy
 
 git branch nombre -> crea una nueva rama
 git checkout nombreRama -> me posiciona en la rama seleccionada.
+
+git remote add origin url_repo_github -> me permite añadir un origin remoto
+git push origin rama_que _quiero_enviar -> me permite enviar los cambios a un repositorio remoto Github
