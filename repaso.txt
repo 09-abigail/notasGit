@@ -9,3 +9,6 @@ archivo)
 
 git commit -m “mensajes” -> pasa los archivos del staging area al repositorio.
 git status -> me permite ver el estado actual de mis cambios
+
+git checkout #hash -> me permite regresar a un commit anterior
+git branch -> me permite ver las ramas existentes y me muestra en cual estoy
